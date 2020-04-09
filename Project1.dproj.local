@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.689,=D:\Project1\Unit7.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.729,C:\Users\Admin\Documents\RAD Studio\Projects\Project1\DataModul.dfm=C:\Users\Admin\Documents\RAD Studio\Projects\Project1\Unit3.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.925,=C:\Users\Admin\Documents\RAD Studio\Projects\Project1\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.888,C:\Users\Admin\Documents\RAD Studio\Projects\Project1\DataModule.dfm=C:\Users\Admin\Documents\RAD Studio\Projects\Project1\DataModul.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.888,C:\Users\Admin\Documents\RAD Studio\Projects\Project1\DataModule.pas=C:\Users\Admin\Documents\RAD Studio\Projects\Project1\DataModul.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.665,C:\Users\Admin\Documents\RAD Studio\Projects\Project1\Project1.dproj=C:\Users\Admin\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.666,=D:\Project1\Unit8.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.389,=D:\Project1\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.655,C:\Users\Admin\Documents\RAD Studio\Projects\Project1\Unit1.dfm=C:\Users\Admin\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.744,=C:\Users\PC\Desktop\Театр - копия\Unit10.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.990,=C:\Users\Admin\Documents\RAD Studio\Projects\Project1\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.879,=C:\Users\Admin\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.316,=D:\Rita\Project1\Unit9.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.515,=C:\Users\Admin\Documents\RAD Studio\Projects\Project1\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.655,C:\Users\Admin\Documents\RAD Studio\Projects\Project1\Unit1.pas=C:\Users\Admin\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.301,=D:\Project1\Unit6.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.729,C:\Users\Admin\Documents\RAD Studio\Projects\Project1\DataModul.pas=C:\Users\Admin\Documents\RAD Studio\Projects\Project1\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.513,=D:\Project1\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.657,=D:\Project1\Unit5.pas</Transaction>
+  </Transactions>
+</BorlandProject>
